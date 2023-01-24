@@ -1,4 +1,3 @@
-import javax.xml.validation.Validator;
 
 public class dataTypeExamples{
     public static void main(String[] args) {
